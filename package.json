@@ -9,8 +9,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "github.com/hermantnet/hello-system"
-  },
-  "author": "Thomas E Herman Jr",
-  "license": "ISC"
+    "url": "github.com/sandeep000017/Docker"
+  }
 }
